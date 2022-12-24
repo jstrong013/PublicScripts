@@ -9,4 +9,4 @@ If you find any issues or concerns, please feel free to create a detailed issue.
 
 | Script/Comment                                 | Associated blog post         |
 | ---------------                                | --------------------         |
-| [Move-LabFilesRoot](Move-LabFilesRoot.ps1)     |                              |
+| [Move-LabFilesRoot](Move-LabFilesRoot.ps1)     | [Use PowerShell to Move Files from sub directory to main directory](https://jstrong013.github.io/PowerShell-Move-Files-from-Sub-to-Main-Directory/)                   |
